@@ -21,7 +21,7 @@ class Solution:
     for i in range(len(tokens)):
       for j in range(1, n+1, 1): 
         if i == 0: 
-          
+          counts_tokens_numbers[i][j] = 
 
 
 
